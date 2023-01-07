@@ -3,6 +3,7 @@
 ![screenshot of application](screenshot.png)
 
 ## Requirements
+- preferred IDE
 - Python >= 3.10
 
 ## Run
